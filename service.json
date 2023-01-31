@@ -1,0 +1,10 @@
+{
+  "uid": "deletemenow",
+  "append": true,
+  "watch": true,
+  "script": "./app.js",
+  "sourceDir": "",
+  "logFile": "/home/ec2-user/log/log.log",
+  "outFile": "/home/ec2-user/log/out.log",
+  "errFile": "/home/ec2-user/log/err.log"
+}
